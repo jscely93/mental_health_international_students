@@ -1,2 +1,2 @@
 # mental_health_international_students
-SQL project
+Short SQL project exploring mental health impact of studing abroad
